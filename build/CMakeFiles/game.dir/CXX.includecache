@@ -1,0 +1,832 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Engine.cpp
+Engine.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Engine.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Engine.h
+GEGame.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/GEGame.h
+GETimer.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/GETimer.h
+GERandom.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/GERandom.h
+GEInput.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/GEInput.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/GEFile.cpp
+GEFile.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/GEFile.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/GEFile.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/GEGame.h
+SDL/SDL.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/SDL/SDL.h
+Graphics/GObject.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/GObject.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/GEGlobal.h
+iostream
+-
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/GEGraphicsCore.cpp
+GEGraphicsCore.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/GEGraphicsCore.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/GEGraphicsCore.h
+GEGlobal.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/GEGlobal.h
+SDL/SDL.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/SDL/SDL.h
+iostream
+-
+SDL/SDL_image.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/SDL/SDL_image.h
+Graphics/GEColor.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/GEColor.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/GEInput.h
+iostream
+-
+vector
+-
+algorithm
+-
+SDL/SDL.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/SDL/SDL.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/GEParser.cpp
+GEParser.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/GEParser.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/GEParser.h
+GEGlobal.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/GEGlobal.h
+fstream
+-
+vector
+-
+jsoncpp/json/json.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/jsoncpp/json/json.h
+Game/Game_Classes/GameObject.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/Game_Classes/GameObject.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/GEPhysics.cpp
+GEPhysics.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/GEPhysics.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/GEPhysics.h
+Graphics/GObject.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/GObject.h
+GEGlobal.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/GEGlobal.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/GERandom.cpp
+GERandom.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/GERandom.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/GERandom.h
+stdlib.h
+-
+time.h
+-
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/GESoundCore.cpp
+GESoundCore.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/GESoundCore.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/GESoundCore.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/GETimer.cpp
+GETimer.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/GETimer.h
+iostream
+-
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/GETimer.h
+SDL/SDL.h
+-
+GEGlobal.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/GEGlobal.h
+vector
+-
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/GEVector2D.cpp
+GEVector2D.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/GEVector2D.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/GEVector2D.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../GEGame.h
+SDL/SDL.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../SDL/SDL.h
+Graphics/GObject.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/GObject.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/../GEGlobal.h
+iostream
+-
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/../GEGraphicsCore.h
+GEGlobal.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/../GEGlobal.h
+SDL/SDL.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/../SDL/SDL.h
+iostream
+-
+SDL/SDL_image.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/../SDL/SDL_image.h
+Graphics/GEColor.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/../Graphics/GEColor.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/../GEParser.h
+GEGlobal.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/../GEGlobal.h
+fstream
+-
+vector
+-
+jsoncpp/json/json.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/../jsoncpp/json/json.h
+Game/Game_Classes/GameObject.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/../Game/Game_Classes/GameObject.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/../Game/Game_Classes/../../GEPhysics.h
+Graphics/GObject.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/../Game/Game_Classes/../../Graphics/GObject.h
+GEGlobal.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/../Game/Game_Classes/../../GEGlobal.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/../Game/Game_Classes/../../Graphics/GESpriteSheet.h
+GObject.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/../Game/Game_Classes/../../Graphics/GObject.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/../Game/Game_Classes/../../Graphics/Square.h
+GObject.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/../Game/Game_Classes/../../Graphics/GObject.h
+../GEGlobal.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/../Game/Game_Classes/../../Graphics/../GEGlobal.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/../Game/Game_Classes/GameObject.h
+../../Graphics/GObject.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/../Game/Game_Classes/../../Graphics/GObject.h
+../../Graphics/GESpriteSheet.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/../Game/Game_Classes/../../Graphics/GESpriteSheet.h
+../../GEPhysics.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/../Game/Game_Classes/../../GEPhysics.h
+../../Graphics/Square.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/../Game/Game_Classes/../../Graphics/Square.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/../Graphics/GEColor.h
+SDL/SDL.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/../Graphics/SDL/SDL.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/../jsoncpp/json/autolink.h
+config.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/../jsoncpp/json/config.h
+cpptl/cpptl_autolink.h
+-
+autolink.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/../jsoncpp/json/autolink.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/../jsoncpp/json/config.h
+cpptl/config.h
+-
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/../jsoncpp/json/features.h
+forwards.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/../jsoncpp/json/forwards.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/../jsoncpp/json/forwards.h
+config.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/../jsoncpp/json/config.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/../jsoncpp/json/json.h
+autolink.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/../jsoncpp/json/autolink.h
+value.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/../jsoncpp/json/value.h
+reader.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/../jsoncpp/json/reader.h
+writer.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/../jsoncpp/json/writer.h
+features.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/../jsoncpp/json/features.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/../jsoncpp/json/reader.h
+features.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/../jsoncpp/json/features.h
+value.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/../jsoncpp/json/value.h
+deque
+-
+stack
+-
+string
+-
+iostream
+-
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/../jsoncpp/json/value.h
+forwards.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/../jsoncpp/json/forwards.h
+string
+-
+vector
+-
+map
+-
+cpptl/smallmap.h
+-
+cpptl/forwards.h
+-
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/../jsoncpp/json/writer.h
+value.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/../jsoncpp/json/value.h
+vector
+-
+string
+-
+iostream
+-
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/GEColor.h
+SDL/SDL.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/SDL/SDL.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/GELoadingAnimation.h
+vector
+-
+Square.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/Square.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/GETileMap.h
+fstream
+-
+../GEParser.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/../GEParser.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/GObject.h
+GEColor.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/GEColor.h
+../GEGraphicsCore.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/../GEGraphicsCore.h
+vector
+-
+iostream
+-
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/Square.h
+GObject.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/GObject.h
+../GEGlobal.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/../GEGlobal.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/FinalGame.cpp
+FinalGame.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/FinalGame.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/FinalGame.h
+../GEGame.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../GEGame.h
+vector
+-
+../Graphics/GObject.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/GObject.h
+../Graphics/GELoadingAnimation.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/GELoadingAnimation.h
+../Graphics/GETileMap.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/../Graphics/GETileMap.h
+Game_Classes/Map.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/Game_Classes/Map.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/Game_Classes/../../GEGlobal.h
+iostream
+-
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/Game_Classes/../../GEGraphicsCore.h
+GEGlobal.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/Game_Classes/../../GEGlobal.h
+SDL/SDL.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/Game_Classes/../../SDL/SDL.h
+iostream
+-
+SDL/SDL_image.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/Game_Classes/../../SDL/SDL_image.h
+Graphics/GEColor.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/Game_Classes/../../Graphics/GEColor.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/Game_Classes/../../GEPhysics.h
+Graphics/GObject.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/Game_Classes/../../Graphics/GObject.h
+GEGlobal.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/Game_Classes/../../GEGlobal.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/Game_Classes/../../GEVector2D.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/Game_Classes/../../Graphics/../GEGlobal.h
+iostream
+-
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/Game_Classes/../../Graphics/../GEGraphicsCore.h
+GEGlobal.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/Game_Classes/../../Graphics/../GEGlobal.h
+SDL/SDL.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/Game_Classes/../../Graphics/../SDL/SDL.h
+iostream
+-
+SDL/SDL_image.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/Game_Classes/../../Graphics/../SDL/SDL_image.h
+Graphics/GEColor.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/Game_Classes/../../Graphics/../Graphics/GEColor.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/Game_Classes/../../Graphics/../Graphics/GEColor.h
+SDL/SDL.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/Game_Classes/../../Graphics/../Graphics/SDL/SDL.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/Game_Classes/../../Graphics/GEColor.h
+SDL/SDL.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/Game_Classes/../../Graphics/SDL/SDL.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/Game_Classes/../../Graphics/GESpriteSheet.h
+GObject.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/Game_Classes/../../Graphics/GObject.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/Game_Classes/../../Graphics/GObject.h
+GEColor.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/Game_Classes/../../Graphics/GEColor.h
+../GEGraphicsCore.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/Game_Classes/../../Graphics/../GEGraphicsCore.h
+vector
+-
+iostream
+-
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/Game_Classes/../../Graphics/Square.h
+GObject.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/Game_Classes/../../Graphics/GObject.h
+../GEGlobal.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/Game_Classes/../../Graphics/../GEGlobal.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/Game_Classes/Cell.cpp
+Cell.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/Game_Classes/Cell.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/Game_Classes/Cell.h
+../../GEVector2D.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/Game_Classes/../../GEVector2D.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/Game_Classes/GameObject.cpp
+GameObject.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/Game_Classes/GameObject.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/Game_Classes/GameObject.h
+../../Graphics/GObject.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/Game_Classes/../../Graphics/GObject.h
+../../Graphics/GESpriteSheet.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/Game_Classes/../../Graphics/GESpriteSheet.h
+../../GEPhysics.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/Game_Classes/../../GEPhysics.h
+../../Graphics/Square.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/Game_Classes/../../Graphics/Square.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/Game_Classes/Map.cpp
+Map.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/Game_Classes/Map.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/Game_Classes/Map.h
+../../Graphics/GObject.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/Game_Classes/../../Graphics/GObject.h
+../../GEGraphicsCore.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/Game_Classes/../../GEGraphicsCore.h
+../../GEGlobal.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/Game_Classes/../../GEGlobal.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../GEGlobal.h
+iostream
+-
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../GEGraphicsCore.h
+GEGlobal.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../GEGlobal.h
+SDL/SDL.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../SDL/SDL.h
+iostream
+-
+SDL/SDL_image.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../SDL/SDL_image.h
+Graphics/GEColor.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../Graphics/GEColor.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../GEParser.h
+GEGlobal.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../GEGlobal.h
+fstream
+-
+vector
+-
+jsoncpp/json/json.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../jsoncpp/json/json.h
+Game/Game_Classes/GameObject.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../Game/Game_Classes/GameObject.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../Game/Game_Classes/../../GEPhysics.h
+Graphics/GObject.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../Game/Game_Classes/../../Graphics/GObject.h
+GEGlobal.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../Game/Game_Classes/../../GEGlobal.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../Game/Game_Classes/../../Graphics/../GEGlobal.h
+iostream
+-
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../Game/Game_Classes/../../Graphics/../GEGraphicsCore.h
+GEGlobal.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../Game/Game_Classes/../../Graphics/../GEGlobal.h
+SDL/SDL.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../Game/Game_Classes/../../Graphics/../SDL/SDL.h
+iostream
+-
+SDL/SDL_image.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../Game/Game_Classes/../../Graphics/../SDL/SDL_image.h
+Graphics/GEColor.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../Game/Game_Classes/../../Graphics/../Graphics/GEColor.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../Game/Game_Classes/../../Graphics/../Graphics/GEColor.h
+SDL/SDL.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../Game/Game_Classes/../../Graphics/../Graphics/SDL/SDL.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../Game/Game_Classes/../../Graphics/GEColor.h
+SDL/SDL.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../Game/Game_Classes/../../Graphics/SDL/SDL.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../Game/Game_Classes/../../Graphics/GESpriteSheet.h
+GObject.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../Game/Game_Classes/../../Graphics/GObject.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../Game/Game_Classes/../../Graphics/GObject.h
+GEColor.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../Game/Game_Classes/../../Graphics/GEColor.h
+../GEGraphicsCore.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../Game/Game_Classes/../../Graphics/../GEGraphicsCore.h
+vector
+-
+iostream
+-
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../Game/Game_Classes/../../Graphics/Square.h
+GObject.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../Game/Game_Classes/../../Graphics/GObject.h
+../GEGlobal.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../Game/Game_Classes/../../Graphics/../GEGlobal.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../Game/Game_Classes/GameObject.h
+../../Graphics/GObject.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../Game/Game_Classes/../../Graphics/GObject.h
+../../Graphics/GESpriteSheet.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../Game/Game_Classes/../../Graphics/GESpriteSheet.h
+../../GEPhysics.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../Game/Game_Classes/../../GEPhysics.h
+../../Graphics/Square.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../Game/Game_Classes/../../Graphics/Square.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../Game/Game_Classes/GlobalSettings.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../Graphics/GEColor.h
+SDL/SDL.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../Graphics/SDL/SDL.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../jsoncpp/json/autolink.h
+config.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../jsoncpp/json/config.h
+cpptl/cpptl_autolink.h
+-
+autolink.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../jsoncpp/json/autolink.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../jsoncpp/json/config.h
+cpptl/config.h
+-
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../jsoncpp/json/features.h
+forwards.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../jsoncpp/json/forwards.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../jsoncpp/json/forwards.h
+config.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../jsoncpp/json/config.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../jsoncpp/json/json.h
+autolink.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../jsoncpp/json/autolink.h
+value.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../jsoncpp/json/value.h
+reader.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../jsoncpp/json/reader.h
+writer.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../jsoncpp/json/writer.h
+features.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../jsoncpp/json/features.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../jsoncpp/json/reader.h
+features.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../jsoncpp/json/features.h
+value.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../jsoncpp/json/value.h
+deque
+-
+stack
+-
+string
+-
+iostream
+-
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../jsoncpp/json/value.h
+forwards.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../jsoncpp/json/forwards.h
+string
+-
+vector
+-
+map
+-
+cpptl/smallmap.h
+-
+cpptl/forwards.h
+-
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../jsoncpp/json/writer.h
+value.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../jsoncpp/json/value.h
+vector
+-
+string
+-
+iostream
+-
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/GEBackground.cpp
+GEBackground.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/GEBackground.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/GEBackground.h
+GObject.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/GObject.h
+iostream
+-
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/GEColor.cpp
+GEColor.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/GEColor.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/GEColor.h
+SDL/SDL.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/SDL/SDL.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/GELoadingAnimation.cpp
+GELoadingAnimation.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/GELoadingAnimation.h
+iostream
+-
+cmath
+-
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/GELoadingAnimation.h
+vector
+-
+Square.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/Square.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/GESpriteAnimation.cpp
+GESpriteAnimation.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/GESpriteAnimation.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/GESpriteAnimation.h
+GESpriteSheet.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/GESpriteSheet.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/GESpriteSheet.cpp
+GESpriteSheet.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/GESpriteSheet.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/GESpriteSheet.h
+GObject.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/GObject.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/GETileMap.cpp
+GETileMap.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/GETileMap.h
+string
+-
+../Game/Game_Classes/GlobalSettings.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../Game/Game_Classes/GlobalSettings.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/GETileMap.h
+fstream
+-
+../GEParser.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../GEParser.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/GObject.cpp
+GObject.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/GObject.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/GObject.h
+GEColor.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/GEColor.h
+../GEGraphicsCore.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../GEGraphicsCore.h
+vector
+-
+iostream
+-
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/Square.cpp
+Square.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/Square.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/Square.h
+GObject.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/GObject.h
+../GEGlobal.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/../GEGlobal.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Main.cpp
+Main.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Main.h
+Engine.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Engine.h
+Game/FinalGame.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Game/FinalGame.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Main.h
+GETimer.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/GETimer.h
+GEGame.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/GEGame.h
+Graphics/Square.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/Graphics/Square.h
+SDL/SDL_opengl.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/SDL/SDL_opengl.h
+stdlib.h
+-
+time.h
+-
+GEInput.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/GEInput.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/jsoncpp/json/autolink.h
+config.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/jsoncpp/json/config.h
+cpptl/cpptl_autolink.h
+-
+autolink.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/jsoncpp/json/autolink.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/jsoncpp/json/config.h
+cpptl/config.h
+-
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/jsoncpp/json/features.h
+forwards.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/jsoncpp/json/forwards.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/jsoncpp/json/forwards.h
+config.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/jsoncpp/json/config.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/jsoncpp/json/json.h
+autolink.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/jsoncpp/json/autolink.h
+value.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/jsoncpp/json/value.h
+reader.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/jsoncpp/json/reader.h
+writer.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/jsoncpp/json/writer.h
+features.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/jsoncpp/json/features.h
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/jsoncpp/json/reader.h
+features.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/jsoncpp/json/features.h
+value.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/jsoncpp/json/value.h
+deque
+-
+stack
+-
+string
+-
+iostream
+-
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/jsoncpp/json/value.h
+forwards.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/jsoncpp/json/forwards.h
+string
+-
+vector
+-
+map
+-
+cpptl/smallmap.h
+-
+cpptl/forwards.h
+-
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/jsoncpp/json/writer.h
+value.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/jsoncpp/json/value.h
+vector
+-
+string
+-
+iostream
+-
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/jsoncpp/json_batchallocator.h
+stdlib.h
+-
+assert.h
+-
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/jsoncpp/json_internalarray.inl
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/jsoncpp/json_internalmap.inl
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/jsoncpp/json_reader.cpp
+json/reader.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/jsoncpp/json/reader.h
+json/value.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/jsoncpp/json/value.h
+utility
+-
+cstdio
+-
+cassert
+-
+cstring
+-
+iostream
+-
+stdexcept
+-
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/jsoncpp/json_value.cpp
+iostream
+-
+json/value.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/jsoncpp/json/value.h
+json/writer.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/jsoncpp/json/writer.h
+utility
+-
+stdexcept
+-
+cstring
+-
+cassert
+-
+cpptl/conststring.h
+-
+cstddef
+-
+json_batchallocator.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/jsoncpp/json_batchallocator.h
+json_internalarray.inl
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/jsoncpp/json_internalarray.inl
+json_internalmap.inl
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/jsoncpp/json_internalmap.inl
+json_valueiterator.inl
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/jsoncpp/json_valueiterator.inl
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/jsoncpp/json_valueiterator.inl
+
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/jsoncpp/json_writer.cpp
+json/writer.h
+/home/jordy/Área de Trabalho/GAME OF LIFE/src/jsoncpp/json/writer.h
+utility
+-
+assert.h
+-
+stdio.h
+-
+string.h
+-
+iostream
+-
+sstream
+-
+iomanip
+-
+

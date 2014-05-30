@@ -1,0 +1,1 @@
+/home/jordy/Área de Trabalho/GAME OF LIFE/build/CMakeFiles/game.dir
